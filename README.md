@@ -1,2 +1,2 @@
-# Hazel_
-Hazel Engine (Series)
+# Hazel
+Hazel Engine
